@@ -16,9 +16,9 @@ export const ItemName = styled.div`
 `;
 
 export const ItemPrice = styled.div`
-  color: #64748b;
+  font-weight: 500;
 `;
 
 export const ItemDate = styled.div`
-
+  color: #696969;
 `;
