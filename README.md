@@ -1,7 +1,7 @@
 # Pre-Onboarding Frontend Challenge By Wanted
 ### Demo
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa585bb0-ccef-4b61-89d8-9c89ff219e8a" alt="Demo" width="80%">
+  <img src="https://github.com/user-attachments/assets/ad309e67-4002-47e2-afd1-0ab42e5508fb" alt="Demo" width="80%">
 </p>
 
 ### Assignment
