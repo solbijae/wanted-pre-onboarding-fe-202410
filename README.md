@@ -1,6 +1,6 @@
 # Pre-Onboarding Frontend Challenge By Wanted
 ### Demo
-<img src="![Demo](https://github.com/user-attachments/assets/4e9977bb-fb21-4051-81a1-42c6804614b6)">
+![Demo](https://github.com/user-attachments/assets/4e9977bb-fb21-4051-81a1-42c6804614b6)
 
 ### Assignment
 Implement infinite scrolling on a single page using Intersection Observer.
